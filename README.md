@@ -10,7 +10,7 @@ LawTalk is an initial project by Ayush Malik, Ayush Raj, Dasksh Bansal. We try t
 
 ## Introduction
 
-[Briefly describe the purpose of your project.]
+Currently in [RD2T](#rd2t) Research, Design, Development and Test Phase.
 
 ## Installation
 
